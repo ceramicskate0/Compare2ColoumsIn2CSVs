@@ -1,0 +1,6 @@
+\\fs02\home$\pgarrard\my documents\visual studio 2013\Projects\Compare2ColoumsInCSV\Compare2ColoumsInCSV\bin\Debug\Compare2ColoumsInCSV.exe.config
+\\fs02\home$\pgarrard\my documents\visual studio 2013\Projects\Compare2ColoumsInCSV\Compare2ColoumsInCSV\bin\Debug\Compare2ColoumsInCSV.exe
+\\fs02\home$\pgarrard\my documents\visual studio 2013\Projects\Compare2ColoumsInCSV\Compare2ColoumsInCSV\bin\Debug\Compare2ColoumsInCSV.pdb
+\\fs02\home$\pgarrard\my documents\visual studio 2013\Projects\Compare2ColoumsInCSV\Compare2ColoumsInCSV\obj\Debug\Compare2ColoumsInCSV.csprojResolveAssemblyReference.cache
+\\fs02\home$\pgarrard\my documents\visual studio 2013\Projects\Compare2ColoumsInCSV\Compare2ColoumsInCSV\obj\Debug\Compare2ColoumsInCSV.exe
+\\fs02\home$\pgarrard\my documents\visual studio 2013\Projects\Compare2ColoumsInCSV\Compare2ColoumsInCSV\obj\Debug\Compare2ColoumsInCSV.pdb
